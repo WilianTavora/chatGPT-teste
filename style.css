@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Patua+One&family=Righteous&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.titulo{
+    margin-top: 2rem;
+    margin-left: 7rem;
+    padding-bottom: 10px;
+    font-family: "Righteous";
+    font-size: 40px;
+}
+
+.textarea{
+    margin-left: 2rem;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.btn{
+    background-color: black;
+    margin-left: 2rem;
+    padding: 3px 10px;
+    font-family: "Alkatra";
+    font-weight: 800;
+    margin-bottom: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: white;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.pergunta{
+    margin-left: 2rem;
+    padding-bottom: 1rem;
+    font-family: "Patua One";
+    text-transform: uppercase;
+}
+
+.resposta{
+    margin-left: 1rem;
+    font-family: "Roboto", sans-serif;
+}
